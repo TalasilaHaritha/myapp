@@ -8,7 +8,7 @@ export const store = createContext()
 function App() {
   const[data, setData] = useState([
     {
-      brandname: 'nokia'
+      brandname: 'nokia2'
     },
     {
       brandname: 'realme'
